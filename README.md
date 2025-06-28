@@ -53,6 +53,4 @@ Untuk keperluan pengujian, Anda dapat menggunakan kredensial berikut:
 - Email: kluv1342@gmail.com
 - Password: 123456
 
-## Tangkapan Layar
 
-[Tangkapan layar akan ditambahkan di sini]
